@@ -1,0 +1,1 @@
+La cadena debe contener exactamente un carácter.

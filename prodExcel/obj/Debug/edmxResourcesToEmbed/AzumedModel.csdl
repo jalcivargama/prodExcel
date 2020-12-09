@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AzumedModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="AzumedEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="GetExcel" ReturnType="Collection(AzumedModel.GetExcel_Result)" />
+  </EntityContainer>
+  <ComplexType Name="GetExcel_Result">
+    <Property Type="Int32" Name="idRespuesta" Nullable="false" />
+    <Property Type="Int32" Name="idPregunta" Nullable="true" />
+    <Property Type="Int32" Name="idSolicitudSCE" Nullable="true" />
+    <Property Type="String" Name="Respuesta" Nullable="true" MaxLength="1000" />
+    <Property Type="String" Name="Telefono" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Calle" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="NoExtrerior" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="NoInterior" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Colonia" Nullable="true" MaxLength="100" />
+    <Property Type="Int32" Name="CP" Nullable="true" />
+    <Property Type="String" Name="clave" Nullable="true" MaxLength="50" />
+  </ComplexType>
+</Schema>

@@ -1,0 +1,228 @@
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\prodExcel.exe.config
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\prodExcel.exe
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\prodExcel.pdb
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\netstandard.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.AppContext.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Collections.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Collections.Specialized.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.ComponentModel.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Console.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Data.Common.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Globalization.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.IO.Compression.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.IO.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.IO.FileSystem.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.IO.Pipes.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Linq.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Linq.Expressions.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Linq.Parallel.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Linq.Queryable.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Net.Http.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Net.NameResolution.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Net.Ping.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Net.Primitives.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Net.Requests.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Net.Security.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Net.Sockets.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Net.WebSockets.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.ObjectModel.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Reflection.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Resources.Reader.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Resources.Writer.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Runtime.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Runtime.Handles.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Security.Claims.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Security.Principal.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Security.SecureString.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Text.Encoding.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Threading.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Threading.Tasks.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Threading.Thread.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Threading.Timer.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.ValueTuple.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Xml.XDocument.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Xml.XPath.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\EntityFramework.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\SpreadsheetLight.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.Drawing.Common.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.IO.Packaging.dll
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\EntityFramework.xml
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\SpreadsheetLight.xml
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\bin\Debug\System.IO.Packaging.xml
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\obj\Debug\prodExcel.csprojAssemblyReference.cache
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\obj\Debug\prodExcel.exe.config
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\obj\Debug\prodExcel.csproj.CoreCompileInputs.cache
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\obj\Debug\prodExcel.csproj.CopyComplete
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\obj\Debug\prodExcel.exe
+C:\Users\WITHE\source\repos\prodExcel\prodExcel\obj\Debug\prodExcel.pdb
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\prodExcel.exe.config
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\prodExcel.exe
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\prodExcel.pdb
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\netstandard.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.AppContext.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Collections.Concurrent.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Collections.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Collections.NonGeneric.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Collections.Specialized.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.ComponentModel.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Console.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Data.Common.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Diagnostics.Debug.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Diagnostics.Process.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Diagnostics.Tools.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Drawing.Primitives.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Dynamic.Runtime.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Globalization.Calendars.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Globalization.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Globalization.Extensions.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.IO.Compression.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.IO.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.IO.FileSystem.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.IO.Pipes.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Linq.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Linq.Expressions.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Linq.Parallel.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Linq.Queryable.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Net.Http.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Net.NameResolution.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Net.NetworkInformation.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Net.Ping.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Net.Primitives.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Net.Requests.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Net.Security.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Net.Sockets.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Net.WebSockets.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.ObjectModel.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Reflection.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Reflection.Extensions.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Reflection.Primitives.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Resources.Reader.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Resources.ResourceManager.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Resources.Writer.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Runtime.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Runtime.Extensions.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Runtime.Handles.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Runtime.InteropServices.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Runtime.Numerics.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Security.Claims.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Security.Principal.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Security.SecureString.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Text.Encoding.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Text.RegularExpressions.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Threading.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Threading.Overlapped.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Threading.Tasks.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Threading.Thread.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Threading.ThreadPool.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Threading.Timer.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.ValueTuple.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Xml.XDocument.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Xml.XmlDocument.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Xml.XPath.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\EntityFramework.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\SpreadsheetLight.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.Drawing.Common.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.IO.Packaging.dll
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\EntityFramework.xml
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\SpreadsheetLight.xml
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\bin\Debug\System.IO.Packaging.xml
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\obj\Debug\prodExcel.csprojAssemblyReference.cache
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\obj\Debug\prodExcel.exe.config
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\obj\Debug\prodExcel.csproj.CoreCompileInputs.cache
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\obj\Debug\prodExcel.csproj.CopyComplete
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\obj\Debug\prodExcel.exe
+D:\Users\manue\Claro drive\repo\codigo Diego\prodExcel\prodExcel\obj\Debug\prodExcel.pdb

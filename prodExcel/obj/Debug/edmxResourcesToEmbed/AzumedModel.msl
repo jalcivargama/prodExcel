@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AzumedModelStoreContainer" CdmEntityContainer="AzumedEntities">
+    <FunctionImportMapping FunctionImportName="GetExcel" FunctionName="AzumedModel.Store.GetExcel">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="AzumedModel.GetExcel_Result">
+          <ScalarProperty Name="idRespuesta" ColumnName="idRespuesta" />
+          <ScalarProperty Name="idPregunta" ColumnName="idPregunta" />
+          <ScalarProperty Name="idSolicitudSCE" ColumnName="idSolicitudSCE" />
+          <ScalarProperty Name="Respuesta" ColumnName="Respuesta" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Calle" ColumnName="Calle" />
+          <ScalarProperty Name="NoExtrerior" ColumnName="NoExtrerior" />
+          <ScalarProperty Name="NoInterior" ColumnName="NoInterior" />
+          <ScalarProperty Name="Colonia" ColumnName="Colonia" />
+          <ScalarProperty Name="CP" ColumnName="CP" />
+          <ScalarProperty Name="clave" ColumnName="clave" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>
